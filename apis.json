@@ -1,0 +1,52 @@
+{
+    "name": "Just2Trade",
+    "description": "<p>Just2Trade - Just2Trade is designed with you, the serious investor, in mind. We manage every step of the trading process to ensure smooth, high-quality service and exceptional order executions. <span>We believe that modern financial mechanics is a problem of IT and code, not finance. We seek for elegance of integrations by eliminating the unnecessary complexity of financial infrastructure. Our API calls are based on REST concepts and can be made with any language that supports standard HTTP. Trading is made as easy as possible, just plain JSON and POST.<\/span><\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28328-just2trade-com.jpg",
+    "tags": [
+        "api provider",
+        "financial",
+        "have api",
+        "investing",
+        "marketplaces",
+        "trading"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/just2trade\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Just2Trade",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28328-just2trade-com.jpg",
+            "humanURL": "https:\/\/just2trade.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/just2trade-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/just2trade"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/just2trade.github.io\/docs\/#introduction"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Just2TradeUSA"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/just2trade.com"
+        }
+    ]
+}
